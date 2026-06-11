@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP EliteBook\\Documents\\Work\\Traning\\TmsApi\\TmsApi.csproj": {}
+    "C:\\Users\\user\\Downloads\\Telegram Desktop\\TmsApi\\TmsApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP EliteBook\\Documents\\Work\\Traning\\TmsApi\\TmsApi.csproj": {
+    "C:\\Users\\user\\Downloads\\Telegram Desktop\\TmsApi\\TmsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP EliteBook\\Documents\\Work\\Traning\\TmsApi\\TmsApi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\Telegram Desktop\\TmsApi\\TmsApi.csproj",
         "projectName": "TmsApi",
-        "projectPath": "C:\\Users\\HP EliteBook\\Documents\\Work\\Traning\\TmsApi\\TmsApi.csproj",
-        "packagesPath": "C:\\Users\\HP EliteBook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP EliteBook\\Documents\\Work\\Traning\\TmsApi\\obj\\",
+        "projectPath": "C:\\Users\\user\\Downloads\\Telegram Desktop\\TmsApi\\TmsApi.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\Telegram Desktop\\TmsApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP EliteBook\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
