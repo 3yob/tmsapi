@@ -1,10 +1,13 @@
 using System.ComponentModel.DataAnnotations;
 
-public class PaymentOptions
+namespace TmsApi
 {
-    [Required]
-    public required string GatewayUrl { get; init; }
+    public class PaymentOptions
+    {
+        [Required]
+        public required string GatewayUrl { get; init; }
 
-    [Range(100, 100000)]
-    public decimal MaxDepositBirr { get; init; }
+        [Range(100, 100000)]
+        public decimal MaxDepositBirr { get; init; }
+    }
 }
